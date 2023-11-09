@@ -1,0 +1,13 @@
+h1 {
+  color: aquamarine;
+  font-size: 4rem;
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  color: brown;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+}
